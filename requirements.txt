@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+h5py
+lz4
+opencv-contrib-python
+Pillow
+reportlab
+torch
+
